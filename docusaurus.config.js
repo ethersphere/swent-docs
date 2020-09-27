@@ -2,7 +2,7 @@ module.exports = {
   title: 'Swarm Enterprise Hub',
   tagline: 'Swarm Enterprise Hub addresses questions that are relevant for enterprise use of Swarm such as regulatory compliance, GDPR, privacy, security and enterprise use-cases.',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: 'http://datafund.one/swent/',
   onBrokenLinks: 'throw',
   favicon: 'img/swarm_logo.png',
   organizationName: 'Swarm Association', // Usually your GitHub org/user name.
